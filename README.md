@@ -1,5 +1,5 @@
 
-<h1>Student Management System</h1>
+<h1>JokesWebApp</h1>
 
 <h2>Description</h2>
 JokesWebApp is a web application built on the ASP.NET Core framework that allows users to create, read, update, and delete (CRUD) jokes. This app provides a fun and interactive platform where users can share their humor with others. The ability to create jokes is restricted to registered users who are logged in, ensuring a controlled and personalized user experience. Additionally, the app includes a search functionality to help users find jokes quickly and easily.
